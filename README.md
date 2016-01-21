@@ -12,7 +12,7 @@ Add available endpoints for your applications here. See the LDR example below.
 
 ###LDR
 Base Url: http://amp.pharm.mssm.edu/LDR/api
-- **Endpoint:** /releases/released
+- **Endpoint:** [/releases/released](http://amp.pharm.mssm.edu/LDR/api/releases/released)
 - **Method:** GET
 - **Input:** N/A
 - **Expected Response:** Array of objects containing released LINCS datasets.
